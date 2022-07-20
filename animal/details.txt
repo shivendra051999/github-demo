@@ -1,6 +1,0 @@
-name   nickname  age
-
-dog     kiwi      10
-cat     catty     15
-lion    messi     26
-my name is shiv
